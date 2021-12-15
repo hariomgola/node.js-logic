@@ -1,0 +1,24 @@
+{
+  "name": "node.js-logic",
+  "version": "1.0.0",
+  "description": "Node.js interview topics",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hariomgola/node.js-logic.git"
+  },
+  "author": "hariom gola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hariomgola/node.js-logic/issues"
+  },
+  "homepage": "https://github.com/hariomgola/node.js-logic#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
